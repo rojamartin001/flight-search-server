@@ -1,0 +1,26 @@
+[
+  {
+    "airline": "IndiGo",
+    "flightNumber": "6E123",
+    "departureCity": "Kochi",
+    "arrivalCity": "Mumbai",
+    "departureDate": "2025-06-20",
+    "arrivalDate": "2025-06-20",
+    "departureTime": "10:00",
+    "arrivalTime": "12:30",
+    "price": 5500,
+    "duration": "2h 30m"
+  },
+  {
+    "airline": "SpiceJet",
+    "flightNumber": "ED124",
+    "departureCity": "Chennai",
+    "arrivalCity": "Mumbai",
+    "departureDate": "2025-06-10",
+    "departureTime": "15:04",
+    "arrivalDate": "2025-06-17",
+    "arrivalTime": "22:09",
+    "price": 60000,
+    "duration": "175h 5m"
+  }
+]
